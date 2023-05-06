@@ -1,3 +1,3 @@
-module github.com/Nathan-G-Rogers/puppy
+module puppy
 
 go 1.20
